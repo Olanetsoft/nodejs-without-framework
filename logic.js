@@ -6,6 +6,7 @@ exports.getRequest = function (req, res) {
         "data": "Hello World, Welcome to WeJapa Internships"
     };
 
+    //send status code, set header and the response
     res.statusCode = 200;
     res.setHeader('Content-Type', 'application/json');
     res.end(JSON.stringify(response));
