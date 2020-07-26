@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-without-framework",
+  "version": "1.0.0",
+  "description": "Wejapa Internship first task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olanetsoft/nodejs-without-framework.git"
+  },
+  "author": "olanetsoft",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Olanetsoft/nodejs-without-framework/issues"
+  },
+  "homepage": "https://github.com/Olanetsoft/nodejs-without-framework#readme"
+}
